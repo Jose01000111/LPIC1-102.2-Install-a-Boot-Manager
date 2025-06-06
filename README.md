@@ -3,7 +3,7 @@
 ## 📚 Introduction
 This lab focuses on selecting, installing, and configuring a Linux boot manager. You'll work hands-on with GRUB Legacy and GRUB 2, simulate dual-boot environments, and perform bootloader recovery from a broken configuration. This lab is vital for understanding how a Linux system starts and how to control and repair that process.
 
-1️⃣ Providing Alternative Boot Locations and Backup Boot Options
+## 1️⃣ Providing Alternative Boot Locations and Backup Boot Options
 
 🔸 Open /etc/grub.d/40_custom in a text editor
 
@@ -13,7 +13,7 @@ This lab focuses on selecting, installing, and configuring a Linux boot manager.
 
 🔸 Reboot and test the new menu entry
 
-2️⃣ Install and Configure a Boot Loader such as GRUB Legacy
+## 2️⃣ Install and Configure a Boot Loader such as GRUB Legacy
 
 🔸 Install GRUB Legacy using your package manager
 
@@ -25,7 +25,7 @@ This lab focuses on selecting, installing, and configuring a Linux boot manager.
 
 🔸 Reboot and test the GRUB Legacy configuration
 
-3️⃣ Perform Basic Configuration Changes for GRUB 2
+## 3️⃣ Perform Basic Configuration Changes for GRUB 2
 
 🔸 Edit /etc/default/grub to modify boot parameters like timeout and default entry
 
@@ -35,7 +35,7 @@ This lab focuses on selecting, installing, and configuring a Linux boot manager.
 
 🔸 Optionally, set a specific default entry with grub-set-default
 
-4️⃣ Interact with the Boot Loader
+## 4️⃣ Interact with the Boot Loader
 
 🔸 Reboot the system and press e to edit a GRUB menu entry
 
@@ -54,3 +54,6 @@ This lab focuses on selecting, installing, and configuring a Linux boot manager.
 🔸 Regenerate GRUB configuration
 
 🔸 Exit chroot and reboot the system
+
+## 🧠 What I Learned
+In this lab, I learned how to install, configure, and troubleshoot GRUB boot loaders on a Linux system. I practiced editing GRUB 2 settings, adding custom boot entries, and recovering from boot failures using chroot and a Live CD. This gave me a deeper understanding of the Linux boot process and system recovery techniques.
