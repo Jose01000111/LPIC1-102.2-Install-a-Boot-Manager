@@ -21,11 +21,17 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔸 Open /etc/grub.d/40_custom in a text editor
 
+![t3wrw98](https://github.com/user-attachments/assets/e0ffbad5-88c4-4099-ae96-b0559dabb59d)
+
 🔸 Add a custom menu entry to define a backup boot configuration
+
+![E8sW2MX](https://github.com/user-attachments/assets/b5269069-f577-405f-9aee-e35db6817ce2)
 
 🔸 Rebuild the GRUB configuration with grub-mkconfig
 
 🔸 Reboot and test the new menu entry
+
+![xSfOZDU](https://github.com/user-attachments/assets/8debc02d-8885-4aaf-a491-6717503bef01)
 
 ## 2️⃣ Install and Configure a Boot Loader such as GRUB Legacy
 
@@ -39,6 +45,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔸 Reboot and test the GRUB Legacy configuration
 
+![xSfOZDU](https://github.com/user-attachments/assets/f8daf4b9-951c-41c3-846a-1a4bbc607fd6)
+
 ## 3️⃣ Perform Basic Configuration Changes for GRUB 2
 
 ## ⚠️ I didn’t perform Step 3 (mounting the installed system) on my main Rocky Linux VM to avoid accidentally breaking it.  
@@ -46,7 +54,11 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔸 Edit /etc/default/grub to modify boot parameters like timeout and default entry
 
+![8uocCcO](https://github.com/user-attachments/assets/76910a40-d3c3-4dad-ba88-5eb67ba9334f)
+
 🔸 Update values such as GRUB_TIMEOUT, GRUB_DEFAULT, and GRUB_CMDLINE_LINUX
+
+![ReUI828](https://github.com/user-attachments/assets/68883787-e18f-4ca4-b484-cc74e1e26989)
 
 🔸 Regenerate the GRUB configuration using grub-mkconfig
 
