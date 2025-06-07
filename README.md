@@ -64,25 +64,25 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔸 Optionally, set a specific default entry with grub-set-default
 
+![wk1ny43](https://github.com/user-attachments/assets/e9385e38-3442-45c6-bc4e-99687ffc942c)
+
 ## 4️⃣ Interact with the Boot Loader
 
 🔸 Reboot the system and press e to edit a GRUB menu entry
 
 🔸 Modify the linux line to append a boot parameter like single
 
-🔸 Boot with the modified entry using Ctrl + X or F10
+![zAxC7DL](https://github.com/user-attachments/assets/043e351d-11d0-4129-9c08-3f8b8afdd681)
 
-🔸 If GRUB is broken, boot into a Live CD
+🔸 Boot with the modified entry using Ctrl + X or F10
 
 🔸 Mount the root partition and system directories
 
-🔸 Chroot into the mounted system
+![1MpUArF](https://github.com/user-attachments/assets/8e20ef4a-65f3-493c-af8f-4b512de07d86)
 
 🔸 Reinstall GRUB to the disk
 
-🔸 Regenerate GRUB configuration
-
-🔸 Exit chroot and reboot the system
+![LAA6ckq](https://github.com/user-attachments/assets/34038e4f-ad15-4a71-a4e0-ddf29295bbdb)
 
 ## 🧠 What I Learned
 In this lab, I learned how to install, configure, and troubleshoot GRUB boot loaders on a Linux system. I practiced editing GRUB 2 settings, adding custom boot entries, and recovering from boot failures using chroot and a Live CD. This gave me a deeper understanding of the Linux boot process and system recovery techniques.
