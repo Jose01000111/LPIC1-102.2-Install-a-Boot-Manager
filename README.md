@@ -3,6 +3,18 @@
 ## 📚 Introduction
 This lab focuses on selecting, installing, and configuring a Linux boot manager. You'll work hands-on with GRUB Legacy and GRUB 2, simulate dual-boot environments, and perform bootloader recovery from a broken configuration. This lab is vital for understanding how a Linux system starts and how to control and repair that process.
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
+
+[Objective 102.2 Install a Boot Manager](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.2_Install_a_boot_manager)
+
+---
+
+[Objective 102.2 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EelLXY620NJCqMo5GQiSvrMBq1a8zwt668jKiaQA884hcg?e=owkp2e)
+
+---
+
+[Lab 102.2](https://1drv.ms/w/c/354f1c8d534fbced/EXJLyL2oIGNPnosS478POZMBvzmj7GEiSSXWhS_IbBMWWQ?e=Ehnyi4)
+
 ## 1️⃣ Providing Alternative Boot Locations and Backup Boot Options
 
 🔸 Open /etc/grub.d/40_custom in a text editor
