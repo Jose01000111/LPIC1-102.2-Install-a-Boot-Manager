@@ -15,6 +15,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [Lab 102.2](https://1drv.ms/w/c/354f1c8d534fbced/EXJLyL2oIGNPnosS478POZMBvzmj7GEiSSXWhS_IbBMWWQ?e=Ehnyi4)
 
+---
+
 ## 1️⃣ Providing Alternative Boot Locations and Backup Boot Options
 
 🔸 Open /etc/grub.d/40_custom in a text editor
