@@ -41,6 +41,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 ## 3️⃣ Perform Basic Configuration Changes for GRUB 2
 
+## ⚠️ I didn’t perform Step 3 (mounting the installed system) on my main Rocky Linux VM to avoid accidentally breaking it.  
+## 🛡️ Instead, I documented the process carefully to practice later on a safe test VM or snapshot.
+
 🔸 Edit /etc/default/grub to modify boot parameters like timeout and default entry
 
 🔸 Update values such as GRUB_TIMEOUT, GRUB_DEFAULT, and GRUB_CMDLINE_LINUX
