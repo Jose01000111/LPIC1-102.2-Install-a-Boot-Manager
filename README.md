@@ -7,11 +7,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [Objective 102.2 Install a Boot Manager](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.2_Install_a_boot_manager)
 
----
-
 [Objective 102.2 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EelLXY620NJCqMo5GQiSvrMBq1a8zwt668jKiaQA884hcg?e=owkp2e)
-
----
 
 [Lab 102.2](https://1drv.ms/w/c/354f1c8d534fbced/EXJLyL2oIGNPnosS478POZMBvzmj7GEiSSXWhS_IbBMWWQ?e=Ehnyi4)
 
